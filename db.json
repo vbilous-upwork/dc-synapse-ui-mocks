@@ -7,8 +7,12 @@
       "completed": false,
       "files": {
         "image": [
-          "https://via.placeholder.com/600/92c952",
-          "https://via.placeholder.com/150/92c952"
+          {
+            "src": "https://via.placeholder.com/600/92c952"
+          },
+          {
+            "src": "https://via.placeholder.com/150/92c952"
+          }
         ],
         "pdf": [
           "https://www.soundczech.cz/temp/lorem-ipsum.pdf",
